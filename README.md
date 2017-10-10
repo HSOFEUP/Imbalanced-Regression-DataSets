@@ -20,3 +20,6 @@ Data <- repmis::source_data(url = "http://bit.ly/Ss6zDO")
 ## More details on the data sets
 
 
+## Interested in replicating the paper experiments?
+
+Please check 
