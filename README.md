@@ -20,7 +20,7 @@ The main characteristics of the 15 regression data sets in this folder are as fo
 
 ID   | Data Set   | N    | tpred | p.nom | p.num | nRare | % Rare |
 -----|------------|------|-------|-------|-------|-------|--------|
-DS1  | a6         | 198  | 11    | 3     | 8     | 33    | 16 7   |
+DS1  | a6         | 198  | 11    | 3     | 8     | 33    | 16.7   |
 DS2  | Abalone    | 4177 | 8     | 1     | 7     | 679   | 16.3   |
 DS3  | a3         | 198  | 11    | 3     | 8     | 32    | 16.2   |
 DS4  | a4         | 198  | 11    | 3     | 8     | 31    | 15.7   | 
